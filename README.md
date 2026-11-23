@@ -1,4 +1,11 @@
-﻿# Praktikum Struktur Data
+# Data Structures Coursework
 
-Kumpulan berkas praktikum mata kuliah Struktur Data untuk akun GitHub [Ghivee](https://github.com/Ghivee).
+Lab exercise files for the Data Structures course.
 
+[Bahasa Indonesia](README.id.md)
+
+## Structure
+
+```
+Week 01     week 1 lab files
+```
